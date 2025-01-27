@@ -1,7 +1,5 @@
 # Egyptian-national-ID-validator-and-data-extractor-API.
 
-# Egyptian National ID Validator and Data-Extractor API
-
 This project is a Django-based API that validates Egyptian national IDs and extracts relevant information such as birth date and governorate. It also includes features like rate limiting, API key authentication, and API call tracking.
 
 ---
